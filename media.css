@@ -94,7 +94,9 @@ body #contact-section::before{
  margin-top: 35px;
 }
 body #contact-box{
-    margin-top: -1%;
+    font-size: 0px;
+    margin-top: 2%;
+    padding: 0px 2px;
 }
 body #contact-box textarea{
     padding: 4px 7px;
@@ -124,8 +126,10 @@ body footer{
     font-size: 15px;
 padding: 4px 3px;
 width: 105%;
+margin-top: 16px;
 }
 body .h-primary{
     font-size: 14px;
 }
+
 
