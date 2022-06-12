@@ -1,4 +1,5 @@
 
+  
     html {
         scroll-behavior: smooth;
     }
@@ -72,7 +73,7 @@
 
     #home::before {
         content: "";
-        background: url(./img/view-tasty-food-composition.jpg) no-repeat center center/cover;
+        background: url(../img/view-tasty-food-composition.jpg) no-repeat center center/cover;
         position: absolute;
         height: 98%;
         width: 100vw;
@@ -168,7 +169,7 @@
 
     #clients-section::before {
         content: "";
-        background: url(./img/harvest-3679075.png) no-repeat center center/cover;
+        background: url(../img/harvest-3679075.png) no-repeat center center/cover;
         z-index: -1;
         position: absolute;
         opacity: 0.7;
@@ -252,7 +253,7 @@ margin-top: 29%;
     position: absolute;
     width: 101%;
     height: 105%;
-    background: url(./img/phone\ call.jpg) no-repeat center center/cover;
+    background: url(../img/phone\ call.jpg) no-repeat center center/cover;
     z-index: -1;
     opacity: 0.7;
     margin-top: 55px;
